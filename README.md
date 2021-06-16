@@ -3,7 +3,7 @@
 
 In This repo you get the all GTU solved practicals with the video solutions.
 
-For video solutions click here
+For video solutions [click here](https://youtube.com/playlist?list=PLKJcmeGwP0pcMbPrM-Jpeq0PBmedi_s9h)
 
 
 ## Demo
