@@ -1,2 +1,20 @@
-# ANALYSIS-AND-DESIGN-OF-ALGORITHMS-PRACTICALS
-IN THIS REPO YOU GET THE ALL GTU ADA PRACTICALS WITH VIDEO SOLUTIONS.
+
+# ANALYSIS AND DESIGN OF ALGORITHMS
+
+In This repo you get the all GTU solved practicals with the video solutions.
+
+For video solutions click here
+
+
+## Demo
+
+1. wathch the video for the practical 
+2. Create by yourself if you got any error refer practcial file.
+3. Don't forget to give us star.
+
+  
+## Authors
+
+- [@Aldairtiyna](https://github.com/Aldairtiyna)
+
+  
